@@ -4,4 +4,6 @@
 #支持指定架构
 #--platform=linux/amd64 p3terx/aria2-pro
 #--platform=linux/amd64 mysql:8.0
---platform=linux/amd64 bytelang/kplayer:latest
+#--platform=linux/amd64 bytelang/kplayer:latest
+--platform=linux/amd64 xiaoyaliu/alist:latest
+
