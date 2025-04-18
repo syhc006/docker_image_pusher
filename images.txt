@@ -6,4 +6,5 @@
 #--platform=linux/amd64 mysql:8.0
 #--platform=linux/amd64 bytelang/kplayer:latest
 #--platform=linux/amd64 xiaoyaliu/alist:latest
---platform=linux/amd64 haroldli/xiaoya-tvbox:latest
+#--platform=linux/amd64 haroldli/xiaoya-tvbox:latest
+--platform=linux/amd64 talebook/talebook:v3.8.4
